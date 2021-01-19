@@ -64,8 +64,6 @@ module.exports = {
     disableHostCheck: true,
     historyApiFallback: true,
     port: 8081,
-    proxy: {
-    }
 
   },
 }
