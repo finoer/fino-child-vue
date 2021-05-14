@@ -14,7 +14,7 @@
     "url": "123"
   },
   "dependencies": {
-    "@finoer/finoer-invoke": "^0.0.11",
+    "@finoer/finoer-invoke": "^0.0.23",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",

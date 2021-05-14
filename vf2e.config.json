@@ -1,7 +1,7 @@
 
 {
     "name": "yueqi",
-    "domain": "http://localhost:8081", 
+    "domain": "http://localhost:8080", 
     "entry": "/yueqi/stats.js",
     "context": "vue",
     "version": "2.6.2"
