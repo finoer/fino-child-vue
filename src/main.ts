@@ -1,4 +1,4 @@
-import { invoke, registerApps, $data } from '@finoer/finoer-invoke'
+import { invoke, registerApps } from '@finoer/finoer-invoke'
 import { routerArray, } from './router'
 // @ts-ignore
 import mouduleInfo from '../vf2e.config.json'
@@ -13,6 +13,8 @@ if(!runtime) {
         return route === mouduleInfo.name
     }
   } ])
+
+  invoke.start()
 }
 
 const finoApp = {

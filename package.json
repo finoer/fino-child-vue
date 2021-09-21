@@ -31,7 +31,6 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vvos-node": "^1.0.0",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
     "typescript": "^3.4.3",
